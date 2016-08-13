@@ -1,0 +1,33 @@
+.title {font-size: 5em;}
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background-image: url("img/light-bg2.png");
+  color: purple;
+  text-align: center;
+  font-family: "Fjalla+One";
+}
+hl{
+  font-family: "Fjalla+One";
+}
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+.guess {
+font-size: 2em;
+  display: block;
+  margin: 5em auto;
+}
+.trophy {
+  height: 40vmin;
+}
